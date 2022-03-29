@@ -1,0 +1,13 @@
+li{
+    display: inline-block;
+    justify-content: space-between;
+}
+section{
+    height: 300px;
+}
+header{
+    position: fixed;
+}
+main{
+    margin-top: 50px;
+}
